@@ -1,0 +1,15 @@
+body{
+    font-family: MIcrosoft JhengHei;
+    
+}
+#banner{
+    background-image: url(../images/8.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 800px;
+    margin-top: 3.5rem;
+}
+.title{
+    color: #FA8072;
+    font-weight: bold;
+}
